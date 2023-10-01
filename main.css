@@ -81,3 +81,13 @@ body {
 .container .heroes .hero:nth-child(30) .image {background-image: url(./images/hero30.png);}
 .container .heroes .hero:nth-child(31) .image {background-image: url(./images/hero31.png);}
 .container .heroes .hero:nth-child(32) .image {background-image: url(./images/hero32.png);}
+
+.container .logo{
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.container .logo img{
+  width: 100%;
+}
